@@ -26,4 +26,4 @@ A small example of the problem it solves:
 ## Known Issues ##
 
  * Watchers and validators are not yet implemented.
- * Regular atoms might suffer a bit performance wise.
+ * Regular atoms might suffer a bit performance wise when using my versions of swap!, reset! and compare-and-set!
